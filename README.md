@@ -11,15 +11,27 @@
 > 國立中央大學,學分學程, **人工智慧跨域應用**,學士,2020 年9月-2024 年6月
 
 
-#### 以下是我的在學經歷
-> FinxChance執行長,2022 年9月-2023 年6月
+#### 以下是我的社團經歷
+> **FinxChance執行長**,2022 年9月-2023 年6月
 > 
 >歡迎參觀我們[FinxChance](https://www.facebook.com/NCUFinAandCA/).
 
 > 中央大學財金系**系排**,2020 年9月-2022 年6月
 
+#### 以下是我的興趣
+- 排球:volleyball:
+- 聽音樂:musical_note:
+- 旅遊:earth_africa:
+  1. 綠島
+  2. 澎湖  
 
+#### 人生目標
+- [x] 學會開車、騎車
+- [ ] 出國交換
+- [ ] 考上研究所
 
+#### 我家狗狗
+![我家狗勾](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkknews.cc%2Fpet%2F4bb93o3.html&psig=AOvVaw3Oeve9eesEtL1eZ01IOOWB&ust=1654187487426000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCOlNrWjPgCFQAAAAAdAAAAABAD)
 
 
 <!--
